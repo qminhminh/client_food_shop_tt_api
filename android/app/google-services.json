@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937214757402",
+    "project_id": "ecommerce-tt-api",
+    "storage_bucket": "ecommerce-tt-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937214757402:android:e73344b247e2baf1d81fa3",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_tt_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQZlN7fPAFgrs16wQ03C8aBjltyWVPiEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
